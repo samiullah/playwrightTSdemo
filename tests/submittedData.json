@@ -1,0 +1,44 @@
+{
+  "email": "Eve.Thiel40@gmail.com",
+  "firstName": "Dave",
+  "lastName": "Kozey",
+  "country": "India+",
+  "phoneNumber": "(426) 435-0245 x395",
+  "password": "a4Vcv4SUSTKnHK6@",
+  "streetAddress": "9840 Birch Road",
+  "additionalStreetAddress": "Apt. 601",
+  "state": "Alabama",
+  "city": "Fort Jaydoncester",
+  "zipCode": "20432",
+  "countryUSA": "USA",
+  "activities": [
+    {
+      "name": "abeo",
+      "level": "1",
+      "description": "Paens tandem crustulum adhaero summa.",
+      "details": "Amoveo victus speculum sopor velit tot crepusculum."
+    },
+    {
+      "name": "aqua",
+      "level": "2",
+      "description": "Vesco cuppedia desolo capillus tripudio adopto creptio.",
+      "details": "Vesper nesciunt aequus sursum."
+    },
+    {
+      "name": "quae",
+      "level": "3",
+      "description": "Conscendo sophismata deserunt.",
+      "details": "Socius corporis tenus utique quia demitto addo."
+    },
+    {
+      "name": "circumvenio",
+      "level": "4",
+      "description": "Tergeo verbum beneficium.",
+      "details": "Caecus quasi urbs denego toties clam tenuis abundans."
+    }
+  ],
+  "essays": {
+    "animals": "Adflicto vehemens turbo corrigo verbera voco carbo.",
+    "school": "Laudantium crudelis aeneus varietas vindico terga corroboro ratione."
+  }
+}

@@ -10,7 +10,8 @@ export class BasePage {
     }
 
     async clickOnNextButton() {
-        await this.nextButton.waitFor({ state: "visible" });
+        // await this.nextButton.waitFor({ state: "visible" });
+        await this.page.waitForTimeout(5000)
         await this.nextButton.click();
         await this.page.waitForLoadState('domcontentloaded');
     }
